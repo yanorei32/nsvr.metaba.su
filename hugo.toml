@@ -1,0 +1,10 @@
+baseURL = 'https://nsvr.metaba.su/'
+languageCode = 'ja-jp'
+title = 'NSVR'
+theme = 'ananke'
+DefaultContentLanguage = "ja"
+hasCJKLanguage = true
+
+[params]
+description = 'N⁄S高校＆OBのVR勢が話すサーバー主体のコミュニティです。'
+read_more_copy = 'もっと読む'
